@@ -156,7 +156,7 @@ const hotels = {
         // from here
         {
             id: uuid(),
-            name: "Folktales ; a Boutique Homestay & Artist Retreat#",
+            name: "Folktales - a Boutique Homestay & Artist Retreat",
             category: "National Parks",
             image: "https://a0.muscache.com/im/pictures/cfdf5973-9fc1-42d3-bde1-a072fdbe1825.jpg?im_w=1200",
             imageArr: ["https://a0.muscache.com/im/pictures/c7ecaa29-a2a6-4e50-8dd5-a4719096fb4b.jpg?im_w=720", "https://a0.muscache.com/im/pictures/d9f4455c-f29b-4068-81b8-c05957239930.jpg?im_w=720", "https://a0.muscache.com/im/pictures/eba3d6d8-8b5b-43a0-b1d4-05a4bb1c578b.jpg?im_w=720", "https://a0.muscache.com/im/pictures/941cc6e4-4178-489b-b92c-1df3af7a3464.jpg?im_w=720"],
